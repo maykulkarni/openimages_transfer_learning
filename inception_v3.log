@@ -1,0 +1,956 @@
+0: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+1: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+2: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+3: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+4: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+5: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+6: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+7: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+8: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+9: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+10: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+11: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+12: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+13: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+14: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+15: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+16: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+17: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 100.00%
+18: Actual: banana Prediction: lemon Msg: Wrong Prediction!
+Accuracy: 94.74%
+19: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 95.00%
+20: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 95.24%
+21: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 95.45%
+22: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 95.65%
+23: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 95.83%
+24: Actual: banana Prediction: lemon Msg: Wrong Prediction!
+Accuracy: 92.00%
+25: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.31%
+26: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.59%
+27: Actual: banana Prediction: lemon Msg: Wrong Prediction!
+Accuracy: 89.29%
+28: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 89.66%
+29: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 90.00%
+30: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 90.32%
+31: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 90.62%
+32: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 90.91%
+33: Actual: banana Prediction: lemon Msg: Wrong Prediction!
+Accuracy: 88.24%
+34: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 88.57%
+35: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 88.89%
+36: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 89.19%
+37: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 89.47%
+38: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 89.74%
+39: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 90.00%
+40: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 90.24%
+41: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 90.48%
+42: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 90.70%
+43: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 90.91%
+44: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 91.11%
+45: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 91.30%
+46: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 91.49%
+47: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 91.67%
+48: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 91.84%
+49: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.00%
+50: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.16%
+51: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.31%
+52: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.45%
+53: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.59%
+54: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.73%
+55: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.86%
+56: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.98%
+57: Actual: banana Prediction: lemon Msg: Wrong Prediction!
+Accuracy: 91.38%
+58: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 91.53%
+59: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 91.67%
+60: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 91.80%
+61: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 91.94%
+62: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.06%
+63: Actual: banana Prediction: banana Msg: Correct Prediction!
+Accuracy: 92.19%
+0: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 92.31%
+1: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 92.42%
+2: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 92.54%
+3: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 92.65%
+4: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 92.75%
+5: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 92.86%
+6: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 92.96%
+7: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.06%
+8: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.15%
+9: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.24%
+10: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.33%
+11: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.42%
+12: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.51%
+13: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.59%
+14: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.67%
+15: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.75%
+16: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.83%
+17: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.90%
+18: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 93.98%
+19: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.05%
+20: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.12%
+21: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.19%
+22: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.25%
+23: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.32%
+24: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.38%
+25: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.44%
+26: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.51%
+27: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.57%
+28: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.62%
+29: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.68%
+30: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.74%
+31: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.79%
+32: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.85%
+33: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.90%
+34: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.95%
+35: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.00%
+36: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.05%
+37: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.10%
+38: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.15%
+39: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.19%
+40: Actual: lemon Prediction: banana Msg: Wrong Prediction!
+Accuracy: 94.29%
+41: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.34%
+42: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.39%
+43: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.44%
+44: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.50%
+45: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.55%
+46: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.59%
+47: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.64%
+48: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.69%
+49: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.74%
+50: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.78%
+51: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.83%
+52: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.87%
+53: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.92%
+54: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 94.96%
+55: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.00%
+56: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.04%
+57: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.08%
+58: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.12%
+59: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.16%
+60: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.20%
+61: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.24%
+62: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.28%
+63: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.31%
+64: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.35%
+65: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.38%
+66: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.42%
+67: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.45%
+68: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.49%
+69: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.52%
+70: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.56%
+71: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.59%
+72: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.62%
+73: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.65%
+74: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.68%
+75: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.71%
+76: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.74%
+77: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.77%
+78: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.80%
+79: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.83%
+80: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.86%
+81: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.89%
+82: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.92%
+83: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.95%
+84: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 95.97%
+85: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.00%
+86: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.03%
+87: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.05%
+88: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.08%
+89: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.10%
+90: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.13%
+91: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.15%
+92: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.18%
+93: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.20%
+94: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.23%
+95: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.25%
+96: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.27%
+97: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.30%
+98: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.32%
+99: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.34%
+100: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.36%
+101: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.39%
+102: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.41%
+103: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.43%
+104: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.45%
+105: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.47%
+106: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.49%
+107: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.51%
+108: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.53%
+109: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.55%
+110: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.57%
+111: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.59%
+112: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.61%
+113: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.63%
+114: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.65%
+115: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.67%
+116: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.69%
+117: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.70%
+118: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.72%
+119: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.74%
+120: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.76%
+121: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.77%
+122: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.79%
+123: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.81%
+124: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.83%
+125: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.84%
+126: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.86%
+127: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.88%
+128: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.89%
+129: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.91%
+130: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.92%
+131: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.94%
+132: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.95%
+133: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.97%
+134: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.98%
+135: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.00%
+136: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.01%
+137: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.03%
+138: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.04%
+139: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.06%
+140: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.07%
+141: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.09%
+142: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.10%
+143: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.12%
+144: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.13%
+145: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.14%
+146: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.16%
+147: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.17%
+148: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.18%
+149: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.20%
+150: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.21%
+151: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.22%
+152: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.24%
+153: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.25%
+154: Actual: lemon Prediction: dolphin Msg: Wrong Prediction!
+Accuracy: 96.80%
+155: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.82%
+156: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.83%
+157: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.85%
+158: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.86%
+159: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.88%
+160: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.89%
+161: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.90%
+162: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.92%
+163: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.93%
+164: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.94%
+165: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.96%
+166: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.97%
+167: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 96.98%
+168: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.00%
+169: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.01%
+170: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.02%
+171: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.03%
+172: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.05%
+173: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.06%
+174: Actual: lemon Prediction: lemon Msg: Correct Prediction!
+Accuracy: 97.07%
+0: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.08%
+1: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.10%
+2: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.11%
+3: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.12%
+4: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.13%
+5: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.14%
+6: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.15%
+7: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.17%
+8: Actual: sea_lion Prediction: dolphin Msg: Wrong Prediction!
+Accuracy: 96.77%
+9: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.79%
+10: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.80%
+11: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.81%
+12: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.83%
+13: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.84%
+14: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.85%
+15: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.86%
+16: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.88%
+17: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.89%
+18: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.90%
+19: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.91%
+20: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.92%
+21: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.93%
+22: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.95%
+23: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.96%
+24: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.97%
+25: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.98%
+26: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 96.99%
+27: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.00%
+28: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.01%
+29: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.03%
+30: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.04%
+31: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.05%
+32: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.06%
+33: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.07%
+34: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.08%
+35: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.09%
+36: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.10%
+37: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.11%
+38: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.12%
+39: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.13%
+40: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.14%
+41: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.15%
+42: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.16%
+43: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.17%
+44: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.18%
+45: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.19%
+46: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.20%
+47: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.21%
+48: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.22%
+49: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.23%
+50: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.24%
+51: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.25%
+52: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.26%
+53: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.27%
+54: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.28%
+55: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.29%
+56: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.30%
+57: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.31%
+58: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.32%
+59: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.32%
+60: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.33%
+61: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.34%
+62: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.35%
+63: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.36%
+64: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.37%
+65: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.38%
+66: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.39%
+67: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.39%
+68: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.40%
+69: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.41%
+70: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.42%
+71: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.43%
+72: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.44%
+73: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.44%
+74: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.45%
+75: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.46%
+76: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.47%
+77: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.48%
+78: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.48%
+79: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.49%
+80: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.50%
+81: Actual: sea_lion Prediction: sea_lion Msg: Correct Prediction!
+Accuracy: 97.51%
+0: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.52%
+1: Actual: dolphin Prediction: sea_lion Msg: Wrong Prediction!
+Accuracy: 97.21%
+2: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.22%
+3: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.23%
+4: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.24%
+5: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.25%
+6: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.26%
+7: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.26%
+8: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.27%
+9: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.28%
+10: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.29%
+11: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.30%
+12: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.31%
+13: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.31%
+14: Actual: dolphin Prediction: sea_lion Msg: Wrong Prediction!
+Accuracy: 97.02%
+15: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.03%
+16: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.04%
+17: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.05%
+18: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.06%
+19: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.07%
+20: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.08%
+21: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.08%
+22: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.09%
+23: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.10%
+24: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.11%
+25: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.12%
+26: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.13%
+27: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.13%
+28: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.14%
+29: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.15%
+30: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.16%
+31: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.17%
+32: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.18%
+33: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.18%
+34: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.19%
+35: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.20%
+36: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.21%
+37: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.21%
+38: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.22%
+39: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.23%
+40: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.24%
+41: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.25%
+42: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.25%
+43: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.26%
+44: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.27%
+45: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.28%
+46: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.28%
+47: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.29%
+48: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.30%
+49: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.30%
+50: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.31%
+51: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.32%
+52: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.33%
+53: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.33%
+54: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.34%
+55: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.35%
+56: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.35%
+57: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.36%
+58: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.37%
+59: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.38%
+60: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.38%
+61: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.39%
+62: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.40%
+63: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.40%
+64: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.41%
+65: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.42%
+66: Actual: dolphin Prediction: sea_lion Msg: Wrong Prediction!
+Accuracy: 97.16%
+67: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.17%
+68: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.18%
+69: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.19%
+70: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.19%
+71: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.20%
+72: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.21%
+73: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.22%
+74: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.22%
+75: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.23%
+76: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.24%
+77: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.24%
+78: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.25%
+79: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.26%
+80: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.26%
+81: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.27%
+82: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.28%
+83: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.28%
+84: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.29%
+85: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.30%
+86: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.30%
+87: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.31%
+88: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.32%
+89: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.32%
+90: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.33%
+91: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.34%
+92: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.34%
+93: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.35%
+94: Actual: dolphin Prediction: sea_lion Msg: Wrong Prediction!
+Accuracy: 97.12%
+95: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.12%
+96: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.13%
+97: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.14%
+98: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.14%
+99: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.15%
+100: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.16%
+101: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.16%
+102: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.17%
+103: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.18%
+104: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.18%
+105: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.19%
+106: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.20%
+107: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.20%
+108: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.21%
+109: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.22%
+110: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.22%
+111: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.23%
+112: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.24%
+113: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.24%
+114: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.25%
+115: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.25%
+116: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.26%
+117: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.27%
+118: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.27%
+119: Actual: dolphin Prediction: dolphin Msg: Correct Prediction!
+Accuracy: 97.28%
+0: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.29%
+1: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.29%
+2: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.30%
+3: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.30%
+4: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.31%
+5: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.32%
+6: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.32%
+7: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.33%
+8: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.33%
+9: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.34%
+10: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.35%
+11: Actual: baseball_bat Prediction: banana Msg: Wrong Prediction!
+Accuracy: 97.13%
+12: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.14%
+13: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.14%
+14: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.15%
+15: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.16%
+16: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.16%
+17: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.17%
+18: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.17%
+19: Actual: baseball_bat Prediction: banana Msg: Wrong Prediction!
+Accuracy: 96.96%
+20: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 96.97%
+21: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 96.98%
+22: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 96.98%
+23: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 96.99%
+24: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.00%
+25: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.00%
+26: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.01%
+27: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.01%
+28: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.02%
+29: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.03%
+30: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.03%
+31: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.04%
+32: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.05%
+33: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.05%
+34: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.06%
+35: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.06%
+36: Actual: baseball_bat Prediction: baseball_bat Msg: Correct Prediction!
+Accuracy: 97.07%

@@ -50,8 +50,8 @@ def download_images():
 
 def test_accuracy():
     # image = "images/test/banana/0.jpg"
-    labels = ["banana", "lemon", "sea lion", "dolphin", "baseball bat"]
-    base_path = "images/test/sea_lion/"
+    labels = ["banana", "lemon", "sea_lion", "dolphin", "baseball_bat"]
+
     # banana: 4 / 64
     # baseball_bat: 2 / 36
     # dolphin: 4 / 120
@@ -59,8 +59,20 @@ def test_accuracy():
     # sea_lion: 1 / 82
     # ------------------
     # 13 /
-    for index, test_images in enumerate(os.listdir(base_path)):
-        print(str(index) + " : " + predict_image(base_path + test_images))
+    total_images = 0
+    correct = 0
+    for label in labels:
+        base_path = "images/test/{}/".format(label)
+        for index, test_images in enumerate(os.listdir(base_path)):
+            y_pred = predict_image(base_path + test_images)
+            if y_pred == label:
+                correct += 1
+                msg = "Correct Prediction!"
+            else:
+                msg = "Wrong Prediction!"
+            print("{}: Actual: {} Prediction: {} Msg: {}".format(str(index), label, y_pred, msg))
+            total_images += 1
+            print("Accuracy: {0:.2f}%".format((correct / total_images) * 100))
     # predict_image(image)
 
 
